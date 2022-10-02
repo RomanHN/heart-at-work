@@ -10,11 +10,11 @@ There is a simple system of meditation and relaxation called Heartfulness, which
 
 Hi, my name’s Roman Hauksson, and to solve this problem, I’ve designed Heart at Work, a one-of-a-kind productivity app that integrates with your calendar to make it trivial to plan Heartfulness meditation sessions.
 
-![](./heartatwork.png)
+<img src="./heartatwork.png" height="200"/>
 
 When you first start the app, you'd be greeted by with links to helpful resources you can use to learn about Heartfulness meditation.
 
-<img src="./learn.png"/>
+<img src="./learn.png" height="400"/>
 
 Clicking the middle button brings up a screen where you can begin a meditation session. As you can see, Heartfulness involves four daily practices: relaxation, meditation, rejuvenation (or cleaning), and inner connection.
 

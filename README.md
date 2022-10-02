@@ -12,7 +12,17 @@ Hi, my name’s Roman Hauksson, and to solve this problem, I’ve designed Heart
 
 ![](./heartatwork.png)
 
-When you first start the app, you'd be greeted by with links to helpful resources you can use to learn about Heartfulness meditation. Clicking the middle button brings up a screen where you can begin a meditation session. As you can see, Heartfulness involves four daily practices: relaxation, meditation, rejuvenation (or cleaning), and inner connection. Finally, clicking on the calendar icon from the home screen shows us what makes Heart at Work unique. Here, you can see an overview of your day, with events that are synced from other apps, like Google Calendar. 
+When you first start the app, you'd be greeted by with links to helpful resources you can use to learn about Heartfulness meditation.
+
+<img src="./learn.png"/>
+
+Clicking the middle button brings up a screen where you can begin a meditation session. As you can see, Heartfulness involves four daily practices: relaxation, meditation, rejuvenation (or cleaning), and inner connection.
+
+<img src="./sessions.png"/>
+
+Finally, clicking on the calendar icon from the home screen shows us what makes Heart at Work unique. Here, you can see an overview of your day, with events that are synced from other apps, like Google Calendar.
+
+<img src="./calendar.png"/>
 
 Some of the productivity nerds in the room might know about timeboxing: a time management method where you plan ahead of time what periods you will get certain tasks done, to add structure to your day and ensure tasks don’t get out of hand. I believe that this is the key to getting busy people to give heartfulness meditation a try. The user can squeeze meditation sessions around their pre-existing schedule by tapping each of the four buttons near the bottom and adjusting the start and end times.
 
